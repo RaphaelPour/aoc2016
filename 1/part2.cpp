@@ -5,10 +5,10 @@
 #include <list>
 #include <map>
 
-const std::string INPUT_FILE = "input";
-const std::string WHITESPACES = " \n\r\t";
-const std::string LEFT = "L";
-const std::string RIGHT = "R";
+const std::string INPUT_FILE("input");
+const std::string WHITESPACES(" \n\r\t");
+const std::string LEFT("L");
+const std::string RIGHT("R");
 
 class Turtle {
 
